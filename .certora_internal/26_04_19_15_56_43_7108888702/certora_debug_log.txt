@@ -1,0 +1,7 @@
+Saving last configuration file to .certora_internal/26_04_19_15_56_43_7108888702/run.conf
+There is no TAC file. Going to script CertoraProver/certoraBuild.py to main_with_args()
+main build cache key computed based on {'files': ['certora/harness/QIEVaultHarness.sol', 'src/QIEVault.sol'], 'package_version_for_build_cache': 'certora-cli 8.8.1', 'packages': ['@openzeppelin=lib/openzeppelin-contracts'], 'packages_path': 'node_modules', 'solc': '/home/raigoza/Desktop/qie-hackathon/certora-beta/bin/solc', 'solc_allow_path': '.', 'test_condition': 'True'}
+Creating dir /home/raigoza/Desktop/qie-hackathon/.certora_internal/26_04_19_15_56_43_7108888702/.certora_config
+In /home/raigoza/Desktop/qie-hackathon/certora/specs/QIEVault.spec, found the imports: []
+copying spec file /home/raigoza/Desktop/qie-hackathon/certora/specs/QIEVault.spec to /home/raigoza/Desktop/qie-hackathon/.certora_internal/26_04_19_15_56_43_7108888702/.certora_sources/.0_QIEVault.spec.spec
+writing /home/raigoza/Desktop/qie-hackathon/.certora_internal/26_04_19_15_56_43_7108888702/.certora_verify.json

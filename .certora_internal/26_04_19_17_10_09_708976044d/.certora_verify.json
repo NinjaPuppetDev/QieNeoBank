@@ -1,0 +1,8 @@
+{
+    "importFilesToOrigRelpaths": {},
+    "primary_contract": "QIEVaultHarness",
+    "specfile": "certora/specs/QIEVault_shares.spec",
+    "specfileOrigRelpath": "certora/specs/QIEVault_shares.spec",
+    "specfilesToImportDecls": {},
+    "type": "spec"
+}

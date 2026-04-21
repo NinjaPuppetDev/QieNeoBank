@@ -1,0 +1,19 @@
+Saving last configuration file to .certora_internal/26_04_19_16_30_17_529411589a/run.conf
+There is no TAC file. Going to script CertoraProver/certoraBuild.py to main_with_args()
+main build cache key computed based on {'files': ['certora/harness/QIEVaultHarness.sol', 'src/QIEVault.sol'], 'package_version_for_build_cache': 'certora-cli 8.8.1', 'packages': ['@openzeppelin=lib/openzeppelin-contracts'], 'packages_path': 'node_modules', 'solc': '/home/raigoza/solc-0.8.25', 'solc_allow_path': '.', 'solc_evm_version': 'cancun', 'test_condition': 'True'}
+Creating dir /home/raigoza/Desktop/qie-hackathon/.certora_internal/26_04_19_16_30_17_529411589a/.certora_config
+In /home/raigoza/Desktop/qie-hackathon/certora/specs/QIEVault_shares.spec, found the imports: []
+copying spec file /home/raigoza/Desktop/qie-hackathon/certora/specs/QIEVault_shares.spec to /home/raigoza/Desktop/qie-hackathon/.certora_internal/26_04_19_16_30_17_529411589a/.certora_sources/.0_QIEVault_shares.spec.spec
+writing /home/raigoza/Desktop/qie-hackathon/.certora_internal/26_04_19_16_30_17_529411589a/.certora_verify.json
+
+building file certora/harness/QIEVaultHarness.sol
+Running cmd /home/raigoza/solc-0.8.25 --version
+stdout, stderr = .certora_internal/26_04_19_16_30_17_529411589a/.certora_config/version_check_solc-0.8.25.stdout, .certora_internal/26_04_19_16_30_17_529411589a/.certora_config/version_check_solc-0.8.25.stderr
+Exitcode 0
+Solc run /home/raigoza/solc-0.8.25 --version time: 0.0203
+Running cmd /home/raigoza/solc-0.8.25 -o ".certora_internal/26_04_19_16_30_17_529411589a/.certora_config/QIEVaultHarness.sol_0/" --overwrite --allow-paths ".",.,"lib/openzeppelin-contracts" --standard-json
+stdout, stderr = .certora_internal/26_04_19_16_30_17_529411589a/.certora_config/QIEVaultHarness.sol_0.standard.stdout.json, .certora_internal/26_04_19_16_30_17_529411589a/.certora_config/QIEVaultHarness.sol_0.standard.stderr.json
+Exitcode 0
+Solc run /home/raigoza/solc-0.8.25 -o ".certora_internal/26_04_19_16_30_17_529411589a/.certora_config/QIEVaultHarness.sol_0/" --overwrite --allow-paths ".",.,"lib/openzeppelin-contracts" --standard-json time: 0.0605
+reading standard json data from .certora_internal/26_04_19_16_30_17_529411589a/.certora_config/QIEVaultHarness.sol_0.standard.stdout.json
+build failed
