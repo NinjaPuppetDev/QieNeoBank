@@ -1,8 +1,0 @@
-{
-    "importFilesToOrigRelpaths": {},
-    "primary_contract": "QIEVaultHarness",
-    "specfile": "/home/raigoza/Desktop/qie-hackathon/certora/specs/QIEVault_shares.spec",
-    "specfileOrigRelpath": "certora/specs/QIEVault_shares.spec",
-    "specfilesToImportDecls": {},
-    "type": "spec"
-}

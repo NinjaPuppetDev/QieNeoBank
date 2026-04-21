@@ -15,3 +15,11 @@ docs/
 
 # Frontend
 neo-wallet-frontend/
+
+# Certora
+certora/
+certora-beta/
+.certora_internal/
+
+# Compiled binaries
+bin/

@@ -1,8 +1,0 @@
-{
-    "importFilesToOrigRelpaths": {},
-    "primary_contract": "QIEVaultHarness",
-    "specfile": "certora/specs/QIEVault.spec",
-    "specfileOrigRelpath": "certora/specs/QIEVault.spec",
-    "specfilesToImportDecls": {},
-    "type": "spec"
-}
